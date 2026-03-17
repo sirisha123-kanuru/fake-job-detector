@@ -31,6 +31,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
 ## SDG Impact
 Protects job seekers from fraudulent postings — directly
 supports UN Sustainable Development Goal 8: Decent Work.
